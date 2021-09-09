@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	color: #FF9933;
+	font-style: oblique;
+	font-variant: small-caps;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	text-shadow: 3px 3px #000000;
+	background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 50.26% , rgba(63,17,114,0.91)),color-stop( 59.59% , rgba(11,55,235,0.80)),color-stop( 64.77% , rgba(11,65,232,0.74)),color-stop( 100% , rgba(17,132,215,0.38)));
+	background-image: -webkit-linear-gradient(270deg,rgba(63,17,114,0.91) 50.26%,rgba(11,55,235,0.80) 59.59%,rgba(11,65,232,0.74) 64.77%,rgba(17,132,215,0.38) 100%);
+	background-image: linear-gradient(180deg,rgba(63,17,114,0.91) 50.26%,rgba(11,55,235,0.80) 59.59%,rgba(11,65,232,0.74) 64.77%,rgba(17,132,215,0.38) 100%);
+	text-align: center;
+}
+h2 {
+	color: #FF0000;
+	font-style: italic;
+	text-align: center;
+	text-shadow: 1px 1px #000000;
+	}
+p{
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	font-size: small;
+	line-height: normal;
+	text-align: center;
+	}
+#dvicontenido p {
+	
+}
+#dvicontenido{padding-left: 40; }
+.portada {
+	width: 350px;
+}
+.portada1 {
+	clear: none;
+	float: left;
+	width: 725px;
+}
+.portada2 {
+	width: 350px;
+	float: left;
+}
+.portada3 {
+	clear: none;
+	float: right;
+	width: 200px;
+}
+.portada4 {
+	clear: none;
+	float: right;
+	width: 250px;
+}
